@@ -44,6 +44,7 @@ Protocols.table = [
   [479, 0, 'p2p-websocket-star'],
   [275, 0, 'p2p-webrtc-star'],
   [276, 0, 'p2p-webrtc-direct'],
+  [278, 0, 'p2p-znjs-relay'],
   [290, 0, 'p2p-circuit']
 ]
 
